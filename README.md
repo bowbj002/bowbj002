@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bowbj002
-- 👀 I’m interested in programming, gaming
-- 🌱 I’m currently learning oop and data driven web tech
-- 😄 Pronouns: ...
+- 👀 I’m interested in programming, gaming, and music
+- 🌱 I’m currently learning Data Structues, Java, and System Design/Architecture
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Meow
 
 <!---
